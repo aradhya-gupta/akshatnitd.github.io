@@ -2,7 +2,7 @@
 
 My Portfolio website
 
-Tools used:
+I have used the following tools:
 
 - HTML
 - CSS
