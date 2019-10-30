@@ -1,6 +1,4 @@
-## akshatnitd.github.io
-
-My Portfolio website
+## My Portfolio website
 
 Tools used:
 
