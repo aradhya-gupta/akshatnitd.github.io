@@ -7,3 +7,5 @@ Tools used:
 - HTML
 - CSS
 - TheaterJS
+- JS
+- Bootstrap
